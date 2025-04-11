@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Jong%20Seok's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=JongSeok's%20Github&fontSize=90)
 
 ## Welcome 👋
 
