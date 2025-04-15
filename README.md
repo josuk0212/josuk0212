@@ -7,7 +7,7 @@
 
 기술적인 성장을 위해 다양한 경험을 시도하며, 새로운 인사이트를 얻고 피드백을 통해 발전하는 과정을 소중하게 생각합니다. </br>
 기술적인 성장뿐만 아니라, 함께 일하는 동료들에게도 좋은 영향을 주는 개발자가 되고자 합니다. </br>
-유연한 사고와 적극적인 소통을 바탕으로, 다양한 사람들과 함께 더 나은 서비스를 만들어 가고 싶습니다.
+유연한 사고와 적극적인 소통을 바탕으로, 다양한 사람들과 협업하며 더 나은 서비스를 만들어 가고 싶습니다.
 
 </br>
 
@@ -24,4 +24,4 @@
 > 사용자의 빠른 정보습득을 위한 검색 도우미 확장 프로그램 🔎
 
 - [Sticky Searcher Download](https://chromewebstore.google.com/detail/sticky-searcher/hgffglicdkekapoilckejhebgopacdld?hl=ko&utm_source=ext_sidebar)
-- [README](https://github.com/Sticky-Seacher/sticky-searcher-extension/tree/docs/README)
+- [README](https://github.com/Sticky-Seacher/sticky-searcher-extension)
