@@ -8,7 +8,7 @@
 
 </br>
 
-## 📎 My Links
+## 📎 Links
 
 [![Notion](https://img.shields.io/badge/Notion-학습기록-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/1d051e968f0a800bb413fc398136fefa)  
 [![Email](https://img.shields.io/badge/Email-josuk0212@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:josuk0212@gmail.com)
