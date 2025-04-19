@@ -2,7 +2,7 @@ name: Latest Web Tech News
 
 on:
   schedule:
-    - cron: '0 9 * * *'  # 매일 오전 9시 (UTC 기준)
+    - cron: '0 9 * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,9 +13,8 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: |
-            https://dev.to/feed/tag/javascript
             https://hnrss.org/frontpage
-            https://developer.mozilla.org/blog/feed/
             https://www.smashingmagazine.com/feed/
-            https://developers.googleblog.com/atom.xml
-            
+            https://blog.logrocket.com/feed/
+            https://css-tricks.com/feed/
+            https://frontendfoc.us/feed.xml
