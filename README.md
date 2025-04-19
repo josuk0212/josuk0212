@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome+my+github!+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome+my+github!+👋" />
 </p>
 
 </br>
 
-## 📫 연락 및 자료
+## 📎 My Links
 
-[![Notion - 학습 기록](https://img.shields.io/badge/Notion-학습_기록-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/1d051e968f0a800bb413fc398136fefa)
-[![Email - josuk0212@gmail.com](https://img.shields.io/badge/Email-josuk0212@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:josuk0212@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-학습기록-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/1d051e968f0a800bb413fc398136fefa)  
+[![Email](https://img.shields.io/badge/Email-josuk0212@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:josuk0212@gmail.com)
 
 </br>
 
@@ -46,7 +46,7 @@
 
 </br>
 
-## 🛠 기술스택
+## 🛠 Tech Stack
 
 <table>
   <tr>
