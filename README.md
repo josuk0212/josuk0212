@@ -1,11 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=JongSeok's%20Github&fontSize=90)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=200&section=header&text=Lee%20JongSeok&fontSize=45&fontAlign=70&fontColor=ffffff&desc=Frontend%20Engineer&descSize=20&descAlign=70" />
+</p>
 
-안녕하세요. </br>
-새로운 환경에 빠르게 적응하고, 커뮤니케이션을 중요하게 생각하는 개발자입니다.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Welcome+my+github!+👋" />
+</p>
 
-기술적인 성장을 위해 다양한 경험을 시도하며, 새로운 인사이트를 얻고 피드백을 통해 발전하는 과정을 소중하게 생각합니다. </br>
-기술적인 성장뿐만 아니라, 함께 일하는 동료들에게도 좋은 영향을 주는 개발자가 되고자 합니다. </br>
-유연한 사고와 적극적인 소통을 바탕으로, 다양한 사람들과 협업하며 더 나은 서비스를 만들어 가고 싶습니다.
+</br>
+
+## 📫 연락 및 자료
+
+[![Notion - 학습 기록](https://img.shields.io/badge/Notion-학습_기록-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/1d051e968f0a800bb413fc398136fefa)
+[![Email - josuk0212@gmail.com](https://img.shields.io/badge/Email-josuk0212@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:josuk0212@gmail.com)
+
+</br>
+
+## 🧭 개발자로서의 가치와 방향
+
+> 안녕하세요.  
+> 새로운 환경에 빠르게 적응하고, 커뮤니케이션을 중요하게 생각하는 개발자입니다.
+
+- 🚀 기술적인 성장을 위해 새로운 시도와 도전을 즐기며, 끊임없이 배움을 추구합니다.  
+- 🔄 지속적인 피드백과 인사이트를 통해 성장해 나가는 것을 좋아합니다.  
+- 🌱 함께 일하는 동료들에게 긍정적인 에너지를 전할 수 있는 개발자가 되고자 합니다.
 
 </br>
 
@@ -24,6 +41,8 @@
 - [Sticky Searcher Download](https://chromewebstore.google.com/detail/sticky-searcher/hgffglicdkekapoilckejhebgopacdld?hl=ko&utm_source=ext_sidebar)
 - [README](https://github.com/Sticky-Seacher/sticky-searcher-extension)
 
+</br>
+
 ## 🛠 기술스택
 
 ### 🌐 Frontend
@@ -40,4 +59,3 @@
 ### ⚙️ Build & Deployment
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
