@@ -26,20 +26,23 @@
 
 </br>
 
-## Project 🚀
-### 💁 개인 프로젝트 - Presentation Day
-> PDF파일 발표자 모드 지원 웹 서비스 📈
+## 🚀 Project
 
-- [Presentation Day Website](https://presentation-day.today/)
-- [README](https://github.com/josuk0212/Presentation-Day/tree/docs/README)
+### 💁 개인 프로젝트 - Presentation Day
+> Presentation Day는 PDF 파일만으로 발표자 모드를 사용할 수 있는 웹 서비스입니다.  
+> PDF 기반 발표 환경의 불편함을 개선하기위해 별도의 PPT 변환 없이 바로 이용 가능하며,  
+> 청중 화면과 발표자 전용 화면이 분리, 드로잉, 메모 등의 다양한 발표 도구를 제공합니다.
+
+🔗 [웹사이트 바로가기](https://presentation-day.today/) | [README 보기](https://github.com/josuk0212/Presentation-Day/tree/docs/README)
 
 </br>
 
 ### 👫 팀 프로젝트 - Sticky Searcher
-> 사용자의 빠른 정보습득을 위한 검색 도우미 확장 프로그램 🔎
+> Sticky Searcher는 검색한 키워드를 기반으로 한 정보를 빠르게 찾을 수 있도록 지원하는 크롬 확장 프로그램입니다.  
+> 사용자가 구글에 입력한 키워드를 검색 결과 페이지에서 자동으로 하이라이팅하고,  
+> 원하는 웹사이트 접속 시 키워드 관련 핵심 단락 위치로 자동 스크롤하여 빠르게 정보를 찾을 수 있도록 지원합니다.
 
-- [Sticky Searcher Download](https://chromewebstore.google.com/detail/sticky-searcher/hgffglicdkekapoilckejhebgopacdld?hl=ko&utm_source=ext_sidebar)
-- [README](https://github.com/Sticky-Seacher/sticky-searcher-extension)
+🔗 [Chrome Web Store](https://chromewebstore.google.com/detail/sticky-searcher/hgffglicdkekapoilckejhebgopacdld?hl=ko&utm_source=ext_sidebar) | [README 보기](https://github.com/Sticky-Seacher/sticky-searcher-extension)
 
 </br>
 
