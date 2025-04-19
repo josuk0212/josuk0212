@@ -12,6 +12,6 @@ jobs:
       - name: Update Gist with trending repos
         uses: matchai/git-trending@master
         with:
-          gist_id: gist:e4f3c1aa44212ee45bde29238f299c0a
+          gist_id: e4f3c1aa44212ee45bde29238f299c0a
           token: ${{ secrets.GH_TOKEN }}
           
