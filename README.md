@@ -10,7 +10,8 @@
 
 ## 📎 Links
 
-[![Notion](https://img.shields.io/badge/Notion-학습기록-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/1d051e968f0a800bb413fc398136fefa)  
+[![Medium](https://img.shields.io/badge/Medium-블로그-00ab6c?style=flat&logo=medium&logoColor=white)](https://medium.com/@josuk0212)
+[![Notion](https://img.shields.io/badge/Notion-학습기록-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/1d051e968f0a800bb413fc398136fefa)
 [![Email](https://img.shields.io/badge/Email-josuk0212@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:josuk0212@gmail.com)
 
 </br>
@@ -33,7 +34,7 @@
 > PDF 기반 발표 환경의 불편함을 개선하기위해 별도의 PPT 변환 없이 바로 이용 가능하며,  
 > 청중 화면과 발표자 전용 화면이 분리, 드로잉, 메모 등의 다양한 발표 도구를 제공합니다.
 
-🔗 [웹사이트 바로가기](https://presentation-day.today/) | [README 보기](https://github.com/josuk0212/Presentation-Day/tree/docs/README)
+🔗 [웹사이트 바로가기](https://presentation-day.today/) | [README 보기](https://github.com/josuk0212/Presentation-Day)
 
 </br>
 
